@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pytest-trialtemp",
-    version="1.0.0",
+    version="1.0.1",
     author='Jeremy Thurgood',
     author_email='firxen@gmail.com',
     url='http://github.com/jerith/pytest-trialtemp',
